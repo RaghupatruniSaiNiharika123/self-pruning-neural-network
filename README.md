@@ -35,13 +35,7 @@ This allows the network to automatically remove less important connections and b
 
 ---
 
-## 📉 Gate Distribution
 
-The distribution below shows how many weights are pruned (near 0) vs active.
-
-![Gate Distribution](results/gate_distribution.png)
-
----
 
 ## ⚙️ How to Run
 
